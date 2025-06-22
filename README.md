@@ -15,8 +15,6 @@ This repository contains a **practice microservice-style application** built usi
 * To experiment with RESTful API design and database integration with PostgreSQL.
 * To practice building scalable and maintainable code in Go.
 
-Great! Based on your provided folder structure, here’s an updated **📁 Project Architecture** section you can include in your `README.md` — now accurately reflecting your actual layout:
-
 ---
 
 ## 🏗️ Project Architecture
@@ -58,7 +56,7 @@ Routes → Controllers → Service → Repository → Models/DB
 * **Language:** Go (Golang)
 * **Web Framework:** Gin
 * **Database:** PostgreSQL
-* **ORM:** GORM (if used)
+* **ORM:** GORM 
 * **Utilities:** Makefile for task automation
 
 ---
