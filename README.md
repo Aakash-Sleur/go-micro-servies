@@ -24,7 +24,6 @@ The project follows a **modular layered structure**, organized for clarity, sepa
 ```
 /project-root
 │
-├── cmd/             → Entry points for different services (if using multiple executables)
 ├── config/          → Application configuration and environment loading (e.g. DB setup)
 ├── controllers/     → HTTP request handlers (Gin controllers)
 ├── dto/             → Data Transfer Objects used between layers
